@@ -1,6 +1,6 @@
 # Hello! 👋
 
-I am a **Ph.D. candidate** specializing in **sensor signal processing** using **machine learning**.
+**Research Associate** specializing in **sensor signal processing** using **machine learning**.
 
 ## 🔬 Research Interests
 
